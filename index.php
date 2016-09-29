@@ -10,7 +10,3 @@ ajouter fonctionnalité 1
 </ul>
 
 <p> ipsum dolor sit amet, consectetur adipisicing elit. Impedit id porro sapiente ratione odit tempore unde, ipsam laboriosam atque sed optio sequi, magnam velit exercitationem deserunt nostrum, sit distinctio perspiciatis.</p>
-
-<footer>
-	coptight 2016
-</footer>
